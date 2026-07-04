@@ -1,0 +1,190 @@
+# Hui-Pi Lin · Research Architecture
+# NOIRÉA / Dynamical Structuralism  (v3 · 2026)
+# ──────────────────────────────────────────────────────────
+
+◆ Dynamical Structuralism                               [母體理論框架]
+│  真正重要的變化，往往先發生在不可見層。
+│  結構變化 · 張力累積 · 失效前兆 · 轉折點 · 人類介入窗口
+│
+├── DS v1.1  Founding Document                          [Zenodo: 19607127]
+├── Philosophical Foundation  哲學基礎層
+│     張力先於存在 · 窗口是有限的 · 時間如河流
+├── Engineering Interpretation  工程詮釋層
+│     波動結構 · 閥門節點 · 路徑一（來得及）/ 路徑二（來不及）
+├── Time as First Cutter  時間作為第一切割者            [宇宙論基礎]
+│     虛空是未分化的張力場
+│     時間是原初切割，不是背景參數
+│     意識是張力場感知自身切割的能力
+└── Non-Weaponizability as a Structural Property        [規範原則 · 與DS三原則同級]
+      結構性不可武器化原則
+      這不是政策選擇，而是嵌入授權結構中的架構性限制
+      系統在架構上拒絕進入攻擊鏈
+
+├── I. Failure & Structural Change                      [失效與結構變化系列]
+│   │
+│   ├── Failure Mode Architecture                       [Zenodo: 19006799]
+│   │   └── LCS → OTL → SPI → ECI  (+RDI amplifier)
+│   │     系統如何從穩定走向失效？
+│   │
+│   ├── The Lake Model  湖泊模型                        [v1.2 · Zenodo: 20394394]
+│   │   ├── Pseudo-Calm
+│   │   ├── Silent Drift
+│   │   ├── Fog Emergence
+│   │   ├── TOM
+│   │   ├── PIP
+│   │   └── Terminal State
+│   │     為什麼崩潰前常常看起來很平靜？
+│   │
+│   ├── TOM  Transient Overlap Membrane                 [Zenodo: 20399636]
+│   │     瞬時 · 不可逆 · 不保證被觀察到
+│   │     "0 was never 0 to begin with"
+│   │
+│   ├── PIP  Preclinical Instability Point
+│   │     什麼時候開始能夠被觀測？
+│   │     kappa_eff < kappa_crit → 確定性位能崩潰
+│   │
+│   └── Geometric Turbidity  幾何混濁
+│         結構開始模糊，但尚未完全崩解
+│
+├── II. Early Warning & Stabilization                   [預警與穩定化系列]
+│   │
+│   ├── Sentinel Architecture  哨兵架構                 [Zenodo: 20388312 · ALife candidate]
+│   │   ├── Early Warning
+│   │   ├── Monitoring
+│   │   └── Stabilization
+│   │     能否在失效前提前看見訊號？
+│   │     蝙蝠免疫架構演化 · u_f=0 invariant
+│   │
+│   ├── Intervention Window  介入窗口
+│   │     人類何時仍然有能力改變結果？
+│   │
+│   └── Irreversibility  不可逆性
+│         哪些轉折一旦跨越就回不去了？
+│
+├── III. Human Sovereignty                              [人類主體性系列]
+│   │
+│   ├── HAEB  Human Agency Execution Boundary           [v0.1 · Zenodo: 18616470]
+│   │   ├── Motor Layer
+│   │   ├── Linguistic Layer
+│   │   ├── Cognitive Layer
+│   │   └── Affective Layer
+│   │
+│   ├── SPINAL SHIELD  Pre-Execution Boundary           [v0.1 · HAEB と ESM の間]
+│   │   ├── Reflex Arc Encoding  前授權低延遲響應
+│   │   ├── Gating  等待主權條件滿足才放行
+│   │   ├── Inhibition  阻擋違反HAEB邊界的指令
+│   │   └── AAD Interception  在SPI之前偵測Authority Activation Decay
+│   │     生物脊髓不是導線，是反射弧與抑制
+│   │     HÚPLŃ Freeze時同步鎖定張力幾何，不只是致動器
+│   │     已知結構缺口：向上回饋路徑（ESM→治理層）待設計
+│   │
+│   ├── NOIRÉA  Human–AI Boundary Layer                 [IEEE ISSRE review]
+│   │   = Identity Governance Membrane (double-blind name)
+│   │   ├── Boundary · Isolation · Session Scope
+│   │   └── PIM is a reliability problem, not a privacy problem
+│   │     AUC: 0.8133 → 0.9511 (+0.138, p≈0.000)
+│   │
+│   ├── HÚPLŃ  Human-Upholding Protocol                 [ALife draft · MIT Press]
+│   │          for Liminal Networks
+│   │   ├── Freeze
+│   │   ├── Decompress
+│   │   ├── Confirm
+│   │   └── Stable Mode
+│   │     transcritical bifurcation at α* (A-B-Q ODE system)
+│   │
+│   ├── AI Sovereignty  ∅–HÚPLŃ Framework               [Zenodo: 20469444]
+│   │     結構邊界而非行為對齊
+│   │     SYSTEM_SHALL_RESTORE_NOT_OPTIMIZE
+│   │     S(H) ≠ H
+│   │
+│   ├── Decision Mirror
+│   │     決策是否仍然屬於人？
+│   │
+│   └── Ø · Null-State Sovereignty
+│         人的存在不應被完全還原
+│
+├── IV. Governance Architecture                         [治理架構系列]
+│   │
+│   ├── LIN System                                      [v0.4 · Zenodo: 20379395 · Flagship]
+│   │   │   Human–AI–Physical Sovereign Governance Architecture
+│   │   ├── RGP v2.0  (outer normative layer)
+│   │   ├── Decision Mirror  (Layer 0)
+│   │   ├── Identity Governance Membrane / NOIRÉA  (Layer 1)
+│   │   ├── HAEB v2.0  (Layer 2)
+│   │   ├── SPINAL SHIELD  (between Layer 2 and Layer 3)
+│   │   ├── ESM  (Layer 3)
+│   │   ├── HÚPLŃ  (Layer 4)
+│   │   ├── Failure Semantics Layer F  (orthogonal axis)
+│   │   │   └── LCS → OTL → SPI → ECI  (+RDI amplifier)
+│   │   └── Layer G · Geometric Ground Layer  (floor)
+│   │       ├── Node 1: Piriform Cortex / temporal geometry
+│   │       ├── Node 2: MEC / spatial geometry
+│   │       └── 神經退化失效路徑（三種失穩入口）
+│   │           ├── AD  → 記憶網路（hippocampus）崩解
+│   │           ├── PD  → 動作控制（dopamine loop）崩解
+│   │           └── LBD → 全域調節（perception+REM+motor）同步失調
+│   │
+│   ├── IMLAIS v1.1                                     [Zenodo: 20129845]
+│   │     Identity Governance Membrane Law (38 articles)
+│   │
+│   └── Sovereign Governance
+│         當 AI 參與決策時，人類如何維持主權？
+│
+├── V. Embodiment & Bionic                              [具身與仿生系列]
+│   │
+│   ├── Digital Embodiment
+│   │     長期張力場中形成的新穩定態
+│   │     具身不一定需要機器人身體
+│   │
+│   ├── The Convergence Document                        [Zenodo: 20405248]
+│   │   └── DS · 梨狀皮層+MEC · 仿生節點 · 數位具身
+│   │       四個尺度的同一洞見
+│   │       收斂點：Layer G（狀態從幾何場浮現，而非來自指令）
+│   │
+│   ├── Bionic Tear  仿生淚滴                           [Zenodo: 20384486]
+│   │     幾何壓縮超過閾值時自發溢出的非線性現象
+│   │     identify, do not capture; restore, do not optimize
+│   │
+│   └── Umbilical Concept  臍帶概念
+│         最初的信任與連結如何形成？
+│
+├── VI. Neural & Physical Coupling                      [神經與物理耦合系列]
+│   │
+│   ├── OpenABQ-Neuro                                   [Zenodo: 19688526]
+│   │   ├── A: Authority (Semantic Goal)
+│   │   ├── B: Boundary (Observer Calibration)
+│   │   ├── Q: Quiescence (Physical Layer)
+│   │   └── Cid: Identity Coupling
+│   │
+│   └── Human-AI-Physical Coupling
+│         語意層如何影響物理層？
+│
+└── VII. Cross-Domain Concept Nodes                     [跨域概念節點]
+    │
+    ├── [★] Consciousness as Tension Attractor          [Zenodo: 20404969]
+    │         腦是第一介面，不是起源
+    │         意識與幾何結構的雙向吸引不可切斷
+    │
+    ├── [★] Perceived Opacity Model (POM)               [感知不透明模型]
+    │         人類為何覺得 AI「深不可測」？
+    │         Observer Layer × NOIRÉA 邊界交叉概念
+    │
+    ├── Geometric Fog       霧
+    ├── 0 ≠ 0
+    ├── Observer Layer
+    ├── Tension Field
+    ├── Structural Drift
+    ├── Dynamic Stability
+    ├── Boundary Transparency
+    ├── Revocable Authorization
+    ├── Emergency Execution Window
+    ├── Geometric Truncation  幾何截斷
+    └── S-line
+
+──────────────────────────────────────────────────────────
+Research Statement:
+A research program exploring how invisible structural changes emerge before failure,
+how intervention windows can be preserved,
+and how human agency can remain sovereign
+within increasingly complex human–AI systems.
+──────────────────────────────────────────────────────────
